@@ -5,6 +5,7 @@ Simples to-do de listinha de compra moderno e estilizado.
 ## 🚀 Começando
 
 Pequeno sistema to-do feito com HTML, CSS e JavaScript moderno e estiloso.
+Veja exemplo [aqui](https://listadecompras-rayandiniz.netlify.app/).
 
 ### 📋 Pré-requisitos
 
